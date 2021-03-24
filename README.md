@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IvanGH4
 - 👀 I’m interested in web development
-- 🌱 I’m currently taking a coding bootcamp, in order to become a full stack developer
+- 🌱 I’m currently taking a coding bootcamp.
 
 <!---
 IvanGH4/IvanGH4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
