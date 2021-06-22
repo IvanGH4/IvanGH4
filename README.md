@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IvanGH4
 - 👀 I’m interested in web development
-- 🌱 I’m currently taking a coding bootcamp.
+- 🌱 I’m currently working at Commit Studio (https://commit.studio).
 - 💻 [This is my website](https://ivangh-portfolio.vercel.app)
 
 <!---
